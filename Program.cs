@@ -9,7 +9,7 @@ namespace Dashboard
     static class Program
     {
         /// <summary>
-        ///  The main entry point for the application.
+        ///  Entry point dell' applicazione
         /// </summary>
         [STAThread]
         static void Main()
